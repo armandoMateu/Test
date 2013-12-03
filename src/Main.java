@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Text Nuevo");
         
         int b;
+        int c;
     }
 }
