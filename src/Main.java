@@ -18,5 +18,7 @@ public class Main {
         System.out.println("Valor de a = " + a);
         
         System.out.println("Text Nuevo");
+        
+        int b;
     }
 }
